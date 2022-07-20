@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/150138
+
 it('Deve fazer o upload da minha imagem', function () {
   cy.visit('/upload');
 

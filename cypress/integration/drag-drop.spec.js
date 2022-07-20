@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/148498
+
 describe('Drag And Drop', function () {
 
   before(function () {

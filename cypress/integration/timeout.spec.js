@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/149257
+
 it('Exemplo de timeout', function () {
   cy.visit('/timeout');
 

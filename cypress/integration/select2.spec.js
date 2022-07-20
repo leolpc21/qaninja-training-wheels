@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/149250 e https://app.qacademy.io/area/produto/item/149251
+
 it('Deve selecionar uma opção', function () {
   cy.visit('/apps/select2/index.html');
 

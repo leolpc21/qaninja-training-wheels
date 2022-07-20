@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/150139
+
 const niceIFrame = function () {
   return cy.get('#weareqaninja')
     .its('0.contentDocument.body')

@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/148489
+
 it('Deve logar com sucesso', function () {
   cy.visit('/login');
   cy.get('#nickId').type('papitorocks');

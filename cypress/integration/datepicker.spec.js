@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/149252
+
 it('Selecionar a data de nascimneto', function () {
   cy.visit('/datepicker');
 

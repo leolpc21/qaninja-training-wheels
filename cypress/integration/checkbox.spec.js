@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/148495
+
 it('Deve marcar os top 5 filmes da marvel', function () {
   cy.visit('/checkboxes');
 

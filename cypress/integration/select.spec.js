@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+//Aula - https://app.qacademy.io/area/produto/item/148502
+
 it('Selecionar bucky por id', function () {
   cy.visit('/select');
 
